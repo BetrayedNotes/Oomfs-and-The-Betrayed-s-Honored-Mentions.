@@ -4,7 +4,7 @@
 
 
 <p align="center">
-<a href="https://betrayednotes.atabook.org">atabook.</a>
+<a href="https://github.com/bodriooo">@bodriooo.</a>
 
 <p align="center">
 <a href="https://betrayednotes.atabook.org">atabook.</a>
