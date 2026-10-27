@@ -1,9 +1,7 @@
-# Oomfs & The Betrayed's Honored Mentions.
+# Oomf/Special people Mentions.
+
 <p align="center">
-oomf's and honor mentions as well my own mentions
-    
-<p align="center">
-<a href="https://betrayednotes.atabook.org">atabook.</a>
+
 
 <p align="center">
 <a href="https://betrayednotes.atabook.org">atabook.</a>
@@ -16,3 +14,9 @@ oomf's and honor mentions as well my own mentions
 
 <p align="center">
 <a href="https://betrayednotes.atabook.org">atabook.</a>
+
+
+# Honored Mentions.
+
+<p align="center">
+<a href="https://github.com/Macnkayla">@Macnkayla.</a>
