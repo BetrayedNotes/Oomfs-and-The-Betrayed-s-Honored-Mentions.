@@ -7,7 +7,7 @@
 <a href="https://github.com/bodriooo">@bodriooo.</a>
 
 <p align="center">
-<a href="https://betrayednotes.atabook.org">atabook.</a>
+<a href="https://github.com/Gr1mzR0se">@Gr1mzR0se.</a>
 
 <p align="center">
 <a href="https://betrayednotes.atabook.org">atabook.</a>
