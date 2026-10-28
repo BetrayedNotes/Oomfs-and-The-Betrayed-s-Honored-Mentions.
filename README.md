@@ -65,7 +65,10 @@ ___
 
 <p align="center">
 <a href="https://github.com/THE-TEMPIST">@THE-TEMPIST.</a>
-  
+
+<p align="center">
+<a href="https://github.com/piddlesjet">@piddlesjet(soon to be there ;D).</a>
+
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠛⣿⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣈⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀
