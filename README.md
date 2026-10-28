@@ -23,11 +23,23 @@ ___
 <p align="center">
 <a href="https://github.com/Macnkayla">@Macnkayla.</a>
 
+<p align="center">
+<a href="https://github.com/santiagoh15242-rgb">@dashie (friend from discord!).</a>
+
+<p align="center">
+my gf (Ophekoi on pt) ᥫ᭡.
+  
+___
+
+<p align="center">
+⊹₊˚‧︵‿₊୨ honor rolls I'm in ୧₊‿︵‧˚₊⊹ ‹𝟹
+
+<p align="center">
+<a href="https://github.com/pt-of-forsaken">@pt-of-forsaken.</a>
 
 
 
-
-
+  
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠛⣿⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣈⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀
