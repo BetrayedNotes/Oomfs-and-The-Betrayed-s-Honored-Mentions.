@@ -23,6 +23,9 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⣤⣿⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡻⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
+<p align="center">
+some users may be mentioned twice because they are a long time friend or special!
+
 
 <p align="center">
 ⊹₊˚‧︵‿₊୨ oomfs ୧₊‿︵‧˚₊⊹ ‹𝟹
@@ -50,7 +53,13 @@ ___
 <a href="https://github.com/Macnkayla">@Macnkayla.</a>
 
 <p align="center">
+<a href="https://github.com/HerWordsKill">@HerWordsKill.</a>
+  
+<p align="center">
 <a href="https://github.com/santiagoh15242-rgb">@dashie (friend from discord!).</a>
+  
+<p align="center">
+<a href="https://github.com/inf3ct3dd">@sixteen.</a>
 
 <p align="center">
 my gf (Ophekoi on pt) ᥫ᭡.
