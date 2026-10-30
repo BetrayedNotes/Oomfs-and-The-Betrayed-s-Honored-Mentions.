@@ -35,6 +35,9 @@ some users may be mentioned twice because they are a long time friend or special
 <a href="https://github.com/bodriooo">@bodriooo.</a>
 
 <p align="center">
+<a href="https://github.com/pearlsbytheshore">@pearlsbytheshore.</a>
+
+<p align="center">
 <a href="https://github.com/Gr1mzR0se">@Gr1mzR0se.</a>
 
 <p align="center">
