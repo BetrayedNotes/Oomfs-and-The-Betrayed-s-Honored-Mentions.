@@ -51,6 +51,10 @@ ___
 
 <p align="center">
 ⊹₊˚‧︵‿₊୨ honor roll ୧₊‿︵‧˚₊⊹ ‹𝟹
+
+  
+<p align="center">
+<a href="https://github.com/pt-walk-of-fame">@pt-walk-of-fame.</a>
   
 <p align="center">
 <a href="https://github.com/Macnkayla">@Macnkayla.</a>
@@ -83,9 +87,6 @@ ___
 
 <p align="center">
 <a href="https://github.com/Knox-Event">@Knox-Event.</a>
-
-<p align="center">
-<a href="https://github.com/pt-walk-of-fame">@pt-walk-of-fame (soon to be top c+h or online 24/7).</a>
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠛⣿⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀
