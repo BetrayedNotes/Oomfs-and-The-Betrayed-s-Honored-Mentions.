@@ -48,6 +48,13 @@ some users may be mentioned twice because they are a long time friend or special
 
 ___ 
 
+<p align="center">
+⊹₊˚‧︵‿₊୨ cool people ୧₊‿︵‧˚₊⊹ ‹𝟹
+
+<p align="center">
+<a href="https://github.com/Starshade-System">@Starshade-System.</a>
+
+___ 
 
 <p align="center">
 ⊹₊˚‧︵‿₊୨ honor roll ୧₊‿︵‧˚₊⊹ ‹𝟹
