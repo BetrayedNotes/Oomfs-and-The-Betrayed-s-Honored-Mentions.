@@ -60,6 +60,9 @@ ___
 ⊹₊˚‧︵‿₊୨ honor roll ୧₊‿︵‧˚₊⊹ ‹𝟹
 
 <p align="center">
+<a href="https://github.com/yunahcheetahpaws">@snezasaurus.</a>
+
+<p align="center">
 <a href="https://github.com/AnAngelsWings">@AnAngelsWings.</a>
 
 <p align="center">
