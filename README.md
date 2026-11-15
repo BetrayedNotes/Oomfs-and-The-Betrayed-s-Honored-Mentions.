@@ -86,9 +86,6 @@ ___
   
 <p align="center">
 <a href="https://github.com/inf3ct3dd">@sixteen.</a>
-
-<p align="center">
-my gf (Ophekoi on pt) ᥫ᭡.
   
 ___
 
