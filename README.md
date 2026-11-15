@@ -54,6 +54,9 @@ ___
 <p align="center">
 <a href="https://github.com/Starshade-System">@Starshade-System.</a>
 
+<p align="center">
+<a href="https://github.com/1x1x1x1spouse">@1x1x1x1's spouse.</a>
+
 ___ 
 
 <p align="center">
